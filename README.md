@@ -21,8 +21,8 @@ To run the project locally, follow these steps:
 git clone https://github.com/Eku12345/Book_recommendation_system.git
 cd Book_recommendation_system 
 python3 -m venv venv source venv/bin/activate 
-# Use venv\Scripts\activate on Windows pip install -r requirements.txt streamlit run app.py 
-# Or python app.py if using Flask
+### Use venv\Scripts\activate on Windows pip install -r requirements.txt streamlit run app.py 
+### Or python app.py if using Flask
 
 ## Usage
 - Select a book title from the dropdown menu.
